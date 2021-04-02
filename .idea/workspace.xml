@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c3c896b-03bb-4004-80ce-af0b49f7231c" name="Default Changelist" comment="" />
+    <list default="true" id="8c3c896b-03bb-4004-80ce-af0b49f7231c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/udemy-python-technicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/udemy-python-technicals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03- General Pandas/08-Data-Input-and-Output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03- General Pandas/08-Data-Input-and-Output.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03- General Pandas/Excel_Sample.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/03- General Pandas/Excel_Sample.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03- General Pandas/Pandas-Exercises/Pandas Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03- General Pandas/Pandas-Exercises/Pandas Exercises.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1qcg6ES1EhBIymh2JiFXCSGASDp" />
   <component name="ProjectViewState">
@@ -20,6 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -29,7 +58,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617384115150</updated>
-      <workItem from="1617384117444" duration="503000" />
+      <workItem from="1617384117444" duration="1094000" />
+      <workItem from="1617385231352" duration="979000" />
+      <workItem from="1617386232255" duration="3903000" />
     </task>
     <servers />
   </component>
