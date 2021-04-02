@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c3c896b-03bb-4004-80ce-af0b49f7231c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/udemy-python-technicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/udemy-python-technicals.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03- General Pandas/08-Data-Input-and-Output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03- General Pandas/08-Data-Input-and-Output.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03- General Pandas/Excel_Sample.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/03- General Pandas/Excel_Sample.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03- General Pandas/Pandas-Exercises/Pandas Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03- General Pandas/Pandas-Exercises/Pandas Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/Matplotlib Concepts Lecture.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/Matplotlib Concepts Lecture.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/Matplotlib Exercises - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/Matplotlib Exercises - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/Matplotlib Exercises .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/Matplotlib Exercises .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/filename.png" beforeDir="false" afterPath="$PROJECT_DIR$/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib/filename.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <updated>1617384115150</updated>
       <workItem from="1617384117444" duration="1094000" />
       <workItem from="1617385231352" duration="979000" />
-      <workItem from="1617386232255" duration="3903000" />
+      <workItem from="1617386232255" duration="8494000" />
     </task>
     <servers />
   </component>
